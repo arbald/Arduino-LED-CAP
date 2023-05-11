@@ -13,5 +13,9 @@ Project included
   a push button
       needs 10k resistor
       
+      
+  5v power supply, the arduino can provide this, but the more LEDs you have, the more unstable it gets.
+  
+  
  you will need to include the Adafruit Neopixel library
     https://github.com/adafruit/Adafruit_NeoPixel
